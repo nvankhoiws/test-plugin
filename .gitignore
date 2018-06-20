@@ -19,7 +19,6 @@ derby.log
 spring-test/test-output/
 .gradl
 argfile*
-pom.xml
 activemq-data/
 .gradle/
 
